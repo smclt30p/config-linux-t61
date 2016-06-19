@@ -19,8 +19,12 @@
  * Card Reader: Ricoh R5C822 + xD-Picture reader 
  
 # Build command line:
+
+```
+make -j 3 CFLAGS="$CFLAGS -O3"
+
+```
  
- make -j 3 CFLAGS="$CFLAGS -O3"
 
 # Additional variable hardware:
  
