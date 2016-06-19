@@ -18,7 +18,7 @@
  * SATA Controller: Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) [AHCI] 
  * Card Reader: Ricoh R5C822 + xD-Picture reader 
  
- Build command line:
+# Build command line:
  
  make -j 3 CFLAGS="$CFLAGS -O3"
 
